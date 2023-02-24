@@ -1,6 +1,6 @@
 # A07 GitHub Website Page 
-### by M M Miller
+#### by M M Miller
 
 ## Introduction
-xxx
+This is my first attempt at buidling a GitHub website.
 
